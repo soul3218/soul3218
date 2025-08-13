@@ -1,6 +1,6 @@
 <!-- Intro Banner -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Ayaz Shaikh</span></h1>
-<h3 align="center">💻 BCA Student | 🎨 Logo Designer | 🌐 Web Developer</h3>
+<h3 align="center">💻 BCA Student |🎬 Video Editor- 🔍 Inspiration Hunter  | 🌐 Web Developer</h3>
 
 <!-- Typing Effect -->
 <p align="center">
